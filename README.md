@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a second-year student of MA in Statistics at Columbia University
-- My focus is on fundamental statistical analysis and machine learning
-- Mentored Project in Summer 2021: Application of Reinforcement Learning to Finance
-- Please check out my Medium post as a summary of the above project:https://medium.com/@mariko.sawada1/automated-stock-trading-with-deep-reinforcement-learning-and-financial-data-a63286ccbe2b
+- I am currently working on data visualization and machine learning projects
+- Pronouns: She/her
